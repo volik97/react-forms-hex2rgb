@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yq3nyus3rd72a871?svg=true)](https://ci.appveyor.com/project/volik97/react-forms-hex2rgb)
