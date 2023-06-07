@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import hex2rgb from "hex2rgb";
+import { hex2rgb } from '../utilits'
 import "../App.css";
 import { IInput } from "../models/converterModel";
 
@@ -41,7 +41,7 @@ export default function Converter() {
           <p>
             {validityLength === hex.length
               ? valid
-                ? hex2rgb(hex).rgbString
+                ? hex2rgb(hex)
                 : "Ошибка!"
               : 'Например "#BBA5CC"'}
           </p>

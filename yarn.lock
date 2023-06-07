@@ -1054,16 +1054,6 @@ has-flag@^4.0.0:
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
 
-hex-to-rgb@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/hex-to-rgb/-/hex-to-rgb-1.0.1.tgz#100b9df126b32f2762adf8486be68c65ef8ed2a4"
-  integrity sha512-2GsESdjpJIrRL8I7iPOp0r0wczJBk++Q/zFrviNaTRPWMIgk5bPqDmKPUvRHN0SZrYT9N1e+xZU1niYJ6QxzMg==
-
-hex2rgb@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/hex2rgb/-/hex2rgb-2.2.0.tgz#dbae1d6bf9b22c7907d017a3e6b98608eba0b6fc"
-  integrity sha512-1VN8a9/vRY+DEIC7zndT/iRcjOzebIdlGxFzf+R02dXRxjsdaMu78xYuk6mlWYB7F3qK+r9h9+clDPSdp+giCQ==
-
 ignore@^5.2.0:
   version "5.2.4"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.2.4.tgz#a291c0c6178ff1b960befe47fcdec301674a6324"
